@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="16dp"
+    android:background="@drawable/gradientfor_others"
+    android:orientation="vertical"
+    android:layout_marginTop="60dp">
+
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:contentDescription="@string/nav_draw_icon"
+        android:paddingTop="20dp"
+        android:src="@drawable/music_icon"
+        app:tint="@color/white" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_nav"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/grey"
+        android:paddingTop="5dp"/>
+
+</LinearLayout>

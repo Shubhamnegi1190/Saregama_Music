@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SaregamaMusic" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+
+         <item name="colorPrimary">#000000</item>
+         <item name="colorPrimaryVariant">@color/black</item>
+
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+
+
+    </style>
+
+
+    <style name="splash_screen" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/grey</item>
+    </style>
+
+    <style name="Theme.SaregamaMusic" parent="Base.Theme.SaregamaMusic" />
+</resources>

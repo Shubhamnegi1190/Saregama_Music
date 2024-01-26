@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Saregama Music</string>
+    <string name="shuffle_btn">Shuffle</string>
+    <string name="favourite_btn">Favourites</string>
+    <string name="playlist_btn">Playlist</string>
+    <string name="total_songs">Total Songs</string>
+    <string name="music">My Music</string>
+    <string name="song_name">Song Name</string>
+    <string name="back_btn">Back</string>
+    <string name="emptyheart">favempty</string>
+    <string name="start_tv">00:00</string>
+    <string name="end_tv">loading</string>
+
+    <string name="repaet">Repeat_btn</string>
+    <string name="equilizer">Equilizer_btn</string>
+    <string name="timer_btn">Timer_btn</string>
+    <string name="share">Share_btn</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="nav_draw_icon">app_draw_icon</string>
+    <string name="text_nav">Welcome, Have a Good Day</string>
+    <string name="feedback">feedback</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="Exit">Exit</string>
+    <string name="songAlbum">Song Albums</string>
+    <string name="min_15">15 Minutes</string>
+    <string name="min_30">30 Minutes</string>
+    <string name="min_60">60 Minutes</string>
+
+    <string name="user_name">Your Name</string>
+
+    <string name="search_view">Search View</string>
+
+
+    <string name="song_img">Song Image</string>
+    <string name="Playlist_name">Playlist Name</string>
+    <string name="playlist_delete">Delete</string>
+
+    <string name="add_song">Add</string>
+    <string name="remove_All">Remove All</string>
+    <string name="search_song">Search Song</string>
+
+    <string name="topic_feedback">Topic   i.e Suggestion ,Error,Bug,etc</string>
+    <string name="emial_feedback">Email Address (Optional)</string>
+    <string name="send">Send</string>
+    <string name="enjoy_the">Enjoy the</string>
+    <string name="best_music">Best Music</string>
+    <string name="with_us">With Us</string>
+    <string name="get_started">Get Started</string>
+    <string name="continue_as_guest">Continue As Guest</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="welcome">Welcome</string>
+    <string name="have_a_look_what_we_have_for_you">Have a look what we have for you</string>
+    <string name="liked_songs">Liked Songs</string>
+    <string name="library">Library</string>
+    <string name="now_playing">Now Playing</string>
+
+
+</resources>
